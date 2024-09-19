@@ -43,6 +43,3 @@ _O que é README?_
 8. **Imagens com Links:** Adicionar um link clicável em uma imagem.
 9. **Tabelas:** Criar tabelas usando `|` para colunas e `` para separar o cabeçalho do corpo, com alinhamento ajustado com `:`.
         (Aluna: Lívia Ariane Frazão Silva Monteiro)
-    {Gostaria de incluir nesse resumo a importância em estar resumnindo essa lição,
-   nesse momento estou diante de um pc de um amigo, contanto os segundos para que eu saia, enquanto minha filha está em casa me aguardando.
-   Creio que cada fase, cada projeto por mais simples que pareça é um barreira que venho vencendo. Feliz em pertencer!}
